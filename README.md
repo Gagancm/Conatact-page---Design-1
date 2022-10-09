@@ -1,6 +1,15 @@
 # Conatact-page---Design-1
 
-Responsive Contact page
+
+<h3 align="left">Responsive Contact page</h3>
+
+<h3>Desktop view</h3>
+
+![alt text](https://github.com/Gagancm/Conatact-page---Design-1/blob/main/Screenshot%20(153).png?raw=true)
+
+<h3>Mobile view</h3>
+
+![alt text](https://github.com/Gagancm/Conatact-page---Design-1/blob/main/Screenshot%20(152).png?raw=true)
 
 <h3 align="left">Languages and Tools used on this project:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
